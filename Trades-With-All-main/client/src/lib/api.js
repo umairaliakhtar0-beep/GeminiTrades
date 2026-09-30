@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'https://trades-with-all-1.onrender.com/api',
+  baseURL: 'https://geminitrades.onrender.com/api',
   headers: {
     'Content-Type': 'application/json',
   },
